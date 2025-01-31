@@ -7,6 +7,7 @@
     font-family: 'Poppins', sans-serif;
     color: #141311;
 }
+
 /*  --------------------------------------- Body ---------------------------------------*/
 
 .body {
@@ -200,6 +201,7 @@ iframe {
 .product-section {
     margin: 0 auto;
 }
+
 .product-section__title {
     font-size: 35px;
     font-variant: small-caps;
@@ -346,11 +348,12 @@ iframe {
     width: 150px;
     height: auto;
 }
-.footer__logo-img
-{
+
+.footer__logo-img {
     position: relative;
     width: 100%;
 }
+
 .footer__ul {
     display: flex;
     list-style: none;
@@ -363,12 +366,12 @@ iframe {
     color: #b3b8b5;
     text-decoration: none;
     font-weight: 200;
-  
+
 
 }
 
 .footer__link--hover:hover {
     opacity: 0.8;
     cursor: pointer;
-    
+
 }
